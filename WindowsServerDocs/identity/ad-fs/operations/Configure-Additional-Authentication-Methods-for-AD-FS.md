@@ -38,6 +38,7 @@ Mideye | Mideye Authentication Provider for ADFS | [Mideye two-factor authentica
 |One Identity| Starling 2FA AD FS|[Starling 2FA AD FS Adapter](https://www.oneidentity.com/products/starling-two-factor-authentication/)|
 |One Identity| Defender AD FS|[Defender AD FS Adapter](https://www.oneidentity.com/products/defender/)|
 |Ping Identity|PingID MFA Adapter for AD FS|[PingID MFA Adapter for AD FS](https://documentation.pingidentity.com/pingid/pingidAdminGuide/index.shtml#pid_c_PingIDforADFSSSO.html)|
+|PhenixID|PhenixID MFA Adapters for ADFS|[PhenixID MFA Adapters for ADFS](https://support.phenixid.se/sbs/msadfsmfaadapter/)|
 |RSA, The Security Division of EMC|RSA SecurID Authentication Agent for Microsoft Active Directory Federation Services|[RSA SecurID Authentication Agent for Microsoft Active Directory Federation Services](http://www.emc.com/security/rsa-securid/rsa-authentication-agents/microsoft-ad-fs.htm)|
 |SafeNet, Inc.|SafeNet Authentication Service (SAS) Agent for AD FS|[SafeNet Authentication Service: AD FS Agent Configuration Guide](http://www.safenet-inc.com/resources/integration-guide/data-protection/Safenet_Authentication_Service/SafeNet_Authentication_Service__AD_FS_Agent_Configuration_Guide/?langtype=1033)|
 |SecureMFA|SecureMFA OTP Provider| [ADFS Multi Factor Authentication Providers](https://www.securemfa.com/)|
